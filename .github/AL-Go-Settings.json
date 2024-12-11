@@ -1,7 +1,7 @@
 {
   "type": "PTE",
   "templateUrl": "https://github.com/freddydk/AL-Go@trimit",
-  "templateSha": "97faf5bac972d867d100a65bbad0b3634770e980",
+  "templateSha": "4aa4c5992baafb2335a2483e4b1328b182816c01",
   "useCompilerFolder": true,
   "doNotPublishApps": true
 }
